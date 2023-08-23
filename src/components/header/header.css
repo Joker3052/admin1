@@ -1,0 +1,16 @@
+
+#navbar-header {
+  color: #fff;
+  padding: 20px;
+  position: fixed; /* Đặt phần tử này ở vị trí cố định */
+  top: 0; /* Cố định phần tử ở phía trên cùng của màn hình */
+  left: 0; /* Cố định phần tử ở phía bên trái của màn hình */
+  width: 100%; /* Phần tử rộng 100% của màn hình */
+  background-color: #333; /* Màu nền của phần tử */
+  z-index: 1000; /* Chọn một số cao hơn để đảm bảo phần tử này hiển thị trên các phần tử khác */
+  margin-bottom: auto;
+}
+
+#dropdown-item-button{
+  background-color: black;
+}

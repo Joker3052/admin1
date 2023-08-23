@@ -1,0 +1,18 @@
+/* Customers.css */
+
+.total-customers {
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #007bff; /* Màu sắc tuỳ chỉnh */
+    font-size: 18px; /* Kích thước chữ tuỳ chỉnh */
+    /* Thêm các thuộc tính CSS tuỳ chỉnh khác tại đây */
+  }
+  /* Trong tệp Customers.css */
+
+.table-header-cell {
+  background-color: #343a40; /* Màu nền cho các ô trong thead */
+  color: white; /* Màu chữ cho các ô trong thead */
+  font-weight: bold; /* In đậm chữ trong các ô trong thead */
+  padding: 10px; /* Khoảng cách trong ô thead */
+  /* Các định dạng khác cho các ô trong thead */
+}
