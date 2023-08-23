@@ -9,7 +9,7 @@ class Feedback extends Component {
   }
 
   componentDidMount() {
-    fetch('https://joker69.pythonanywhere.com/image/all')
+    fetch('http://127.0.0.1:5000/image/all')
       .then(response => response.json())
       .then(data => {
         // Lưu dữ liệu từ API vào trạng thái
